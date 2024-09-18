@@ -1,21 +1,41 @@
-# Laboratory and practical work on the basics of programming
+# 🧪 **Laboratory and Practical Work on Programming Fundamentals** 🖥️
 
-## Description
-This repository contains codes for laboratory and practical exercises that are part of the course curriculum. 
+***Programming Fundamentals (PF)***
 
-## Author
-- **Student:** Yaroslav Sorochan
-- **Student Group:** 123, **Subgroup:** 1
+## 📄 **Description**
 
-## Contents
-- [Labs](#1.4)
-- [Practical Works](#Practical_Works)
+This repository serves as a collection of ***C++*** solutions for **_laboratory and practical exercises_** that are part of the **Programming Fundamentals** course. The exercises are designed to help students grasp core concepts in programming through hands-on practice.
 
-## Code
-The code contains solutions to laboratory and practical works in the C++ programming language.
+## 👤 **Student**
 
+- **Name:** Yaroslav Sorochan 
+- **Group:** 123  
+- **Subgroup:** 1  
+
+## 📂 **Contents**
+
+  ### [ ***My Laboratory Works*** 🔬 ](https://github.com/soroqn1/Fundamentals-of-programming-laboratory-works/tree/master)
+  
+  ### [ ***My Practical Works*** 🛠️ ](https://github.com/soroqn1/Fundamentals-of-programming-laboratory-works/tree/master/Practical%20works)
+
+---
+
+## ⚙️ **Structure**
+
+Each commit message has the following structure:
+
+- **Module 1 / 2 :** Contains the C++ source code files for the labs.
+- **Practical works:** Contains C++ source code for practical tasks.
+---
+
+## 🏁 **Instructions**
+
+1. **Cloning the Repository**  
+  Clone the repository using the following command:
+
+   ```bash
+   git clone https://github.com/soroqn1/Fundamentals-of-programming-laboratory-works.git
 ---
 
 **Done by:**  
 Yaroslav Sorochan
-Student Group: 123  
