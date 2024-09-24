@@ -1,7 +1,7 @@
 #include <iostream>
 
 bool areEqual(int A, int B) {
-    return (A ^ B) == 0; //Якщо A XOR B = 0, то A = B
+    return (A ^ B) == 0; // Якщо A XOR B = 0, то A = B
 }
 
 int main() {

@@ -86,7 +86,7 @@ void replacePositivesInBWithMinInA(std::vector<int>& A, std::vector<int>& B) {
 }
 
 int main() {
-    // Приклад використання функцій
+    // Приклад використання функцій 
 
     // 1
     std::vector<int> A1 = {1, 2, 3};
