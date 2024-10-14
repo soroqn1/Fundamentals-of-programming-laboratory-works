@@ -19,6 +19,8 @@ This repository serves as a collection of ***C++*** solutions for **_laboratory 
   
   ### [ ***My Practical Works*** 🛠️ ](https://github.com/soroqn1/Fundamentals-of-programming-laboratory-works/tree/master/Practical%20works)
 
+  ### [ ***Additional works*** ⚙️ ](https://github.com/soroqn1/Fundamentals-of-programming-laboratory-works/tree/master/Additional%20works)
+
 ---
 
 ## ⚙️ **Structure**
