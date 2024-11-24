@@ -11,7 +11,7 @@ This repository serves as a collection of ***C++*** solutions for **_laboratory 
 - **Name:** Yaroslav Sorochan 
 - **Group:** 123  
 - **Subgroup:** 1
-- **Variant:** 14 
+- **Variant:** 14 (**RGR:** 24)
 
 ## 📂 **Contents**
 
