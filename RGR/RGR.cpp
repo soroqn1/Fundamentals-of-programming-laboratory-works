@@ -1,4 +1,4 @@
-// Сорочан Ярослав 123 група 24 варіант 
+// Сорочан Ярослав 123 група 24 варіант
 #include <iostream>
 #include <string>
 #include <regex>
